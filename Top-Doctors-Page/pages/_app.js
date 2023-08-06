@@ -4,7 +4,7 @@ import '../styles/globals.css';
 const MyApp = ({ Component, pageProps }) => (
   <>
     <Head>
-      <title>PEPCORNS</title>
+      <title>Top-Doctors-Page</title>
       <meta name="viewport" content="width=device-width, initial-scale=1" />
 
       <link rel="preconnect" href="https://stijndv.com" />
