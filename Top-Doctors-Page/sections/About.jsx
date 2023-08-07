@@ -145,6 +145,8 @@ const About = () => (
 
       </motion.div>
     </motion.div>
+    
+    <div style={{ height: '400px' }}></div>
   </section>
 );
 
